@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Haider Ali Chaudhary
 
 📍 **Location:** Riyadh, Saudi Arabia  
