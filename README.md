@@ -8,7 +8,7 @@
 
 ## Profile Summary
 
-- **11 years of experience** as a result-oriented Software Engineer with expertise in leading the development of multiple commercially successful projects from scratch, involved throughout the development life cycle.
+- **13 years of experience** as a result-oriented Software Engineer with expertise in leading the development of multiple commercially successful projects from scratch, involved throughout the development life cycle.
 - Currently working as a **Senior Software Engineer** for the Ministry of Interior 911 Saudi Arabia, under Atheeb Intergraph Saudi Company, in collaboration with their global partner Hexagon Safety and Infrastructure (USA) for the Intergraph Computer Aided Dispatch System.
 - Advanced proficiency in **.NET** and **SQL**, specializing in end-to-end application development, database design, optimization, and team leadership for delivering robust, scalable solutions.
 - Extensive experience in **large-scale enterprise systems**, including public safety projects for MOI 911, the financial portal (argaam.com), and a retail management system with a point of sale and multidimensional inventory management system.
@@ -26,7 +26,7 @@
 
 ### Ministry of Interior 911, Saudi Arabia
 **Senior Software Engineer**  
-*October 2017 – Present*  
+*October 2017 – August 2024*  
 - Worked under Hexagon Safety & Infrastructure to rollout the I/CAD system for MOI 911, involving end-to-end application development, database design, and implementation of ISM and RESTful APIs.
 - Currently with Atheeb Intergraph Saudi Company, enhancing I/CAD applications and transitioning to microservices architecture.
 
@@ -55,7 +55,7 @@
 **Projects:** Argaam, Argaam Plus, Gulf Argaam, Akhbaar24, Sports 24
 
 ### Freelancer / Developer / Product Owner
-*September 2012 – Present*  
+*September 2011 – Present*  
 - Founded a startup designing and developing desktop and web applications, including a complete Retail Management System.
 
 **Technical Skills:**
