@@ -1,7 +1,7 @@
 ![Image](https://korgix-bucket.s3.us-west-2.amazonaws.com/1610975848344.jpg)
 # Haider Ali Chaudhary
 
-📍 **Location:** Riyadh, Saudi Arabia  
+📍 **Location:** Saudi Arabia  
 📞 **Mobile:** +966-553743479  
 🎂 **DOB:** 20th November 1989  
 ✉️ **Email:** [haideralichoudhary@gmail.com](mailto:haideralichoudhary@gmail.com)
